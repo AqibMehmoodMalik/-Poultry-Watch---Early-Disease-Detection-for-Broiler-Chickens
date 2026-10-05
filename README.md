@@ -10,7 +10,10 @@ Built around a fine-tuned **YOLOv8** object detector and deployed as a full
 streaming, recorded video upload, and single-image upload.
 
 ---
-i<img width="1593" height="796" alt="image" src="image 1" />
+🖥️ Application Preview
+
+<table> <tr> <td align="center"> <img src="image 4.jpeg" width="400" alt="Poultry Watch Application" object-fit: cover> </td> <td align="center"> <img src="image 1" width="400" alt="Poultry Watch Image Detection"> </td> </tr> <tr> <td align="center"> <img src="image2.png" width="400" alt="Poultry Watch Video Detection"> </td> <td align="center"> <img src="imag3.jpeg" width="400" alt="Poultry Watch Live Detection"> </td> </tr> </table>
+-------
 ## ✨ Features
 
 - **Binary health classification** — detects each chicken in frame and
@@ -111,10 +114,6 @@ python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-```
-
-Then open `http://127.0.0.1:8000/` and choose Image, Video, or Live Camera.
----
 
 
 
