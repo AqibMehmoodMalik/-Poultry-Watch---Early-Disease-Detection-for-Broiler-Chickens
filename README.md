@@ -10,7 +10,7 @@ Built around a fine-tuned **YOLOv8** object detector and deployed as a full
 streaming, recorded video upload, and single-image upload.
 
 ---
-
+i<img width="1593" height="796" alt="image" src="image 1" />
 ## ✨ Features
 
 - **Binary health classification** — detects each chicken in frame and
