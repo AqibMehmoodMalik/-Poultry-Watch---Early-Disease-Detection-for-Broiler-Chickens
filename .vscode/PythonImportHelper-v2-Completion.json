@@ -1,0 +1,618 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemStorage",
+        "importPath": "django.core.files.storage",
+        "description": "django.core.files.storage",
+        "isExtraImport": true,
+        "detail": "django.core.files.storage",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingHttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.asgi",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure--4e#brneytn=c@%*1u=n)kno=e3uu&^2rg!2*@#roayn+8xy7o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure--4e#brneytn=c@%*1u=n)kno=e3uu&^2rg!2*@#roayn+8xy7o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n]\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'Chicken_Health_Detection_System.urls'",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Chicken_Health_Detection_System.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Chicken_Health_Detection_System.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/6.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/6.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/6.1/howto/static-files/\nSTATICFILES_DIRS = [\n    BASE_DIR , \"static\",\n]\nSTATIC_URL = 'static/'",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/6.1/howto/static-files/\nSTATICFILES_DIRS = [\n    BASE_DIR , \"static\",\n]\nSTATIC_URL = 'static/'\nMEDIA_URL = \"/media/\"",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/6.1/howto/static-files/\nSTATICFILES_DIRS = [\n    BASE_DIR , \"static\",\n]\nSTATIC_URL = 'static/'\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"static\"",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/6.1/howto/static-files/\nSTATICFILES_DIRS = [\n    BASE_DIR , \"static\",\n]\nSTATIC_URL = 'static/'\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"static\"\n# Email",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    BASE_DIR , \"static\",\n]\nSTATIC_URL = 'static/'\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"static\"\n# Email\n# https://docs.djangoproject.com/en/6.1/topics/email/#topic-email-configuration\nMAILERS = {\n    'default': {",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"static\"\n# Email\n# https://docs.djangoproject.com/en/6.1/topics/email/#topic-email-configuration\nMAILERS = {\n    'default': {\n        'BACKEND': 'django.core.mail.backends.console.EmailBackend',\n    },\n}",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = BASE_DIR / \"static\"\n# Email\n# https://docs.djangoproject.com/en/6.1/topics/email/#topic-email-configuration\nMAILERS = {\n    'default': {\n        'BACKEND': 'django.core.mail.backends.console.EmailBackend',\n    },\n}\nMODEL_WEIGHTS_PATH = str(BASE_DIR / \"weights\" / \"best.pt\")",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / \"static\"\n# Email\n# https://docs.djangoproject.com/en/6.1/topics/email/#topic-email-configuration\nMAILERS = {\n    'default': {\n        'BACKEND': 'django.core.mail.backends.console.EmailBackend',\n    },\n}\nMODEL_WEIGHTS_PATH = str(BASE_DIR / \"weights\" / \"best.pt\")\n# DETECTION_CONF_THRESHOLD = 0.4",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MAILERS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MAILERS = {\n    'default': {\n        'BACKEND': 'django.core.mail.backends.console.EmailBackend',\n    },\n}\nMODEL_WEIGHTS_PATH = str(BASE_DIR / \"weights\" / \"best.pt\")\n# DETECTION_CONF_THRESHOLD = 0.4\nDETECTION_CONF_THRESHOLDS = {\n    \"healthy\": 0.40,\n    \"sick\": 0.60,",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_WEIGHTS_PATH",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MODEL_WEIGHTS_PATH = str(BASE_DIR / \"weights\" / \"best.pt\")\n# DETECTION_CONF_THRESHOLD = 0.4\nDETECTION_CONF_THRESHOLDS = {\n    \"healthy\": 0.40,\n    \"sick\": 0.60,\n    \"default\": 0.40,   # used for any class that isn't matched as healthy/sick\n}\n# The model itself is still asked for candidates down to this floor, so we\n# don't lose boxes before we get a chance to apply the per-class thresholds\n# above. This should be <= the lowest value in DETECTION_CONF_THRESHOLDS.",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DETECTION_CONF_THRESHOLDS",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "DETECTION_CONF_THRESHOLDS = {\n    \"healthy\": 0.40,\n    \"sick\": 0.60,\n    \"default\": 0.40,   # used for any class that isn't matched as healthy/sick\n}\n# The model itself is still asked for candidates down to this floor, so we\n# don't lose boxes before we get a chance to apply the per-class thresholds\n# above. This should be <= the lowest value in DETECTION_CONF_THRESHOLDS.\nMODEL_BASE_CONF = 0.25",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_BASE_CONF",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "peekOfCode": "MODEL_BASE_CONF = 0.25",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.urls",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\", include(\"detector.urls\")),\n]\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.wsgi",
+        "description": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Chicken_Health_Detection_System.Chicken_Health_Detection_System.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "DetectorConfig",
+        "kind": 6,
+        "importPath": "Chicken_Health_Detection_System.detector.apps",
+        "description": "Chicken_Health_Detection_System.detector.apps",
+        "peekOfCode": "class DetectorConfig(AppConfig):\n    name = 'detector'",
+        "detail": "Chicken_Health_Detection_System.detector.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ImageUploadForm",
+        "kind": 6,
+        "importPath": "Chicken_Health_Detection_System.detector.forms",
+        "description": "Chicken_Health_Detection_System.detector.forms",
+        "peekOfCode": "class ImageUploadForm(forms.Form):\n    image = forms.ImageField(label=\"Choose an image\")\nclass VideoUploadForm(forms.Form):\n    video = forms.FileField(label=\"Choose a video file\")",
+        "detail": "Chicken_Health_Detection_System.detector.forms",
+        "documentation": {}
+    },
+    {
+        "label": "VideoUploadForm",
+        "kind": 6,
+        "importPath": "Chicken_Health_Detection_System.detector.forms",
+        "description": "Chicken_Health_Detection_System.detector.forms",
+        "peekOfCode": "class VideoUploadForm(forms.Form):\n    video = forms.FileField(label=\"Choose a video file\")",
+        "detail": "Chicken_Health_Detection_System.detector.forms",
+        "documentation": {}
+    },
+    {
+        "label": "get_model",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def get_model():\n    \"\"\"Loads the YOLO model once and reuses it for every request afterwards.\"\"\"\n    global _model\n    if _model is None:\n        print(f\"[INFO] Loading YOLO model from: {settings.MODEL_WEIGHTS_PATH}\")\n        _model = YOLO(settings.MODEL_WEIGHTS_PATH)\n    return _model\ndef classify_names(names_dict):\n    \"\"\"Splits the model's class ids into sick-like / healthy-like sets by\n    matching substrings, so it works regardless of exact class naming.\"\"\"",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "classify_names",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def classify_names(names_dict):\n    \"\"\"Splits the model's class ids into sick-like / healthy-like sets by\n    matching substrings, so it works regardless of exact class naming.\"\"\"\n    sick_ids, healthy_ids = set(), set()\n    for cls_id, name in names_dict.items():\n        lname = name.lower()\n        if \"sick\" in lname or \"diseased\" in lname:\n            sick_ids.add(cls_id)\n        elif \"health\" in lname:\n            healthy_ids.add(cls_id)",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "passes_class_threshold",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def passes_class_threshold(cls_id, conf, sick_ids, healthy_ids):\n    \"\"\"Applies the PER-CLASS confidence threshold from settings, on top of\n    the low MODEL_BASE_CONF the model itself was called with. This is what\n    lets 'Sick' require a stricter confidence than 'Healthy' — the model.\n    predict()/track() 'conf' argument alone can't do this since it applies\n    one global cutoff to every class equally.\"\"\"\n    thresholds = settings.DETECTION_CONF_THRESHOLDS\n    if cls_id in sick_ids:\n        return conf >= thresholds.get(\"sick\", thresholds[\"default\"])\n    elif cls_id in healthy_ids:",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def detect_image(image_path, output_path, conf_thresh=None):\n    \"\"\"Runs detection on one image, draws boxes, saves an annotated copy.\n    Returns a summary dict used by the results page.\"\"\"\n    model = get_model()\n    sick_ids, healthy_ids = classify_names(model.names)\n    frame = cv2.imread(image_path)\n    if frame is None:\n        raise ValueError(f\"Could not read image: {image_path}\")\n    # Ask the model for candidates down to the low base floor, THEN filter\n    # each one by its own class's threshold below — this is what makes",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def process_video(video_path, output_path, conf_thresh=None,\n                   sick_time_window_sec=120, sick_ratio_threshold=0.75,\n                   min_track_len=15):\n    \"\"\"Runs tracked detection across the whole video, saves an annotated\n    output video, and returns a summary. Same tracking + sustained-sick\n    approach discussed for CCTV footage: a bird is only counted as\n    \"sustained sick\" if it stayed classified Sick across a rolling window,\n    not from one flickering frame.\"\"\"\n    base_conf = conf_thresh or settings.MODEL_BASE_CONF\n    model = get_model()",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "generate_live_frames",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "def generate_live_frames(source, conf_thresh=None):\n    \"\"\"Generator that yields MJPEG-encoded JPEG frames with boxes drawn, for\n    the browser to display as a live <img> stream. `source` is either a\n    webcam index (e.g. \"0\") or an RTSP/HTTP camera URL.\"\"\"\n    base_conf = conf_thresh or settings.MODEL_BASE_CONF\n    model = get_model()\n    sick_ids, healthy_ids = classify_names(model.names)\n    cap_source = int(source) if str(source).isdigit() else source\n    for result in model.track(source=cap_source, conf=base_conf, persist=True,\n                               tracker=\"bytetrack.yaml\", stream=True, verbose=False):",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "_model",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.detector.model_loader",
+        "description": "Chicken_Health_Detection_System.detector.model_loader",
+        "peekOfCode": "_model = None  # module-level singleton\ndef get_model():\n    \"\"\"Loads the YOLO model once and reuses it for every request afterwards.\"\"\"\n    global _model\n    if _model is None:\n        print(f\"[INFO] Loading YOLO model from: {settings.MODEL_WEIGHTS_PATH}\")\n        _model = YOLO(settings.MODEL_WEIGHTS_PATH)\n    return _model\ndef classify_names(names_dict):\n    \"\"\"Splits the model's class ids into sick-like / healthy-like sets by",
+        "detail": "Chicken_Health_Detection_System.detector.model_loader",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Chicken_Health_Detection_System.detector.urls",
+        "description": "Chicken_Health_Detection_System.detector.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.home, name=\"home\"),\n    path(\"image/\", views.upload_image, name=\"upload_image\"),\n    path(\"video/\", views.upload_video, name=\"upload_video\"),\n    path(\"live/\", views.live_stream_page, name=\"live_stream_page\"),\n    path(\"live/feed/\", views.video_feed, name=\"video_feed\"),\n]",
+        "detail": "Chicken_Health_Detection_System.detector.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.views",
+        "description": "Chicken_Health_Detection_System.detector.views",
+        "peekOfCode": "def home(request):\n    return render(request, \"detector/home.html\")\ndef upload_image(request):\n    result = None\n    if request.method == \"POST\":\n        form = ImageUploadForm(request.POST, request.FILES)\n        if form.is_valid():\n            image_file = request.FILES[\"image\"]\n            uploads_dir = os.path.join(settings.MEDIA_ROOT, \"uploads\")\n            os.makedirs(uploads_dir, exist_ok=True)",
+        "detail": "Chicken_Health_Detection_System.detector.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_image",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.views",
+        "description": "Chicken_Health_Detection_System.detector.views",
+        "peekOfCode": "def upload_image(request):\n    result = None\n    if request.method == \"POST\":\n        form = ImageUploadForm(request.POST, request.FILES)\n        if form.is_valid():\n            image_file = request.FILES[\"image\"]\n            uploads_dir = os.path.join(settings.MEDIA_ROOT, \"uploads\")\n            os.makedirs(uploads_dir, exist_ok=True)\n            fs = FileSystemStorage(location=uploads_dir)\n            filename = fs.save(image_file.name, image_file)",
+        "detail": "Chicken_Health_Detection_System.detector.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_video",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.views",
+        "description": "Chicken_Health_Detection_System.detector.views",
+        "peekOfCode": "def upload_video(request):\n    result = None\n    if request.method == \"POST\":\n        form = VideoUploadForm(request.POST, request.FILES)\n        if form.is_valid():\n            video_file = request.FILES[\"video\"]\n            uploads_dir = os.path.join(settings.MEDIA_ROOT, \"uploads\")\n            os.makedirs(uploads_dir, exist_ok=True)\n            fs = FileSystemStorage(location=uploads_dir)\n            filename = fs.save(video_file.name, video_file)",
+        "detail": "Chicken_Health_Detection_System.detector.views",
+        "documentation": {}
+    },
+    {
+        "label": "live_stream_page",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.views",
+        "description": "Chicken_Health_Detection_System.detector.views",
+        "peekOfCode": "def live_stream_page(request):\n    source = request.GET.get(\"source\", \"0\")\n    return render(request, \"detector/live_stream.html\", {\"source\": source})\ndef video_feed(request):\n    source = request.GET.get(\"source\", \"0\")\n    return StreamingHttpResponse(\n        model_loader.generate_live_frames(source),\n        content_type=\"multipart/x-mixed-replace; boundary=frame\",\n    )",
+        "detail": "Chicken_Health_Detection_System.detector.views",
+        "documentation": {}
+    },
+    {
+        "label": "video_feed",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.detector.views",
+        "description": "Chicken_Health_Detection_System.detector.views",
+        "peekOfCode": "def video_feed(request):\n    source = request.GET.get(\"source\", \"0\")\n    return StreamingHttpResponse(\n        model_loader.generate_live_frames(source),\n        content_type=\"multipart/x-mixed-replace; boundary=frame\",\n    )",
+        "detail": "Chicken_Health_Detection_System.detector.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Chicken_Health_Detection_System.manage",
+        "description": "Chicken_Health_Detection_System.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Chicken_Health_Detection_System.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Chicken_Health_Detection_System.manage",
+        "documentation": {}
+    }
+]

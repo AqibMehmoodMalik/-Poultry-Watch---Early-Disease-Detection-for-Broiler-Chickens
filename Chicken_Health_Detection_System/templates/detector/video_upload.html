@@ -1,0 +1,38 @@
+{% extends "detector/base.html" %}
+{% block title %}Video Detection — Poultry Watch{% endblock %}
+
+{% block content %}
+<section class="page-head">
+    <h1>Upload CCTV footage</h1>
+    <p>Processing runs the full clip through the model — longer videos take longer to finish. The page will load once processing is done.</p>
+</section>
+
+<form method="post" enctype="multipart/form-data" class="upload-form">
+    {% csrf_token %}
+    {{ form.video }}
+    <button type="submit" class="btn btn--primary">Process video</button>
+</form>
+
+{% if result %}
+<section class="result">
+    <video controls class="result__video" src="{{ result.output_url }}"></video>
+
+    <div class="result__summary">
+        <div class="stat">
+            <span class="stat__value">{{ result.summary.unique_chickens_tracked }}</span>
+            <span class="stat__label">Chickens tracked</span>
+        </div>
+        <div class="stat stat--sick">
+            <span class="stat__value">{{ result.summary.sustained_sick_count }}</span>
+            <span class="stat__label">Flagged sick</span>
+        </div>
+        <div class="stat">
+            <span class="stat__value">{{ result.summary.total_frames }}</span>
+            <span class="stat__label">Frames processed</span>
+        </div>
+    </div>
+
+    <a class="btn" href="{{ result.output_url }}" download>Download annotated video</a>
+</section>
+{% endif %}
+{% endblock %}

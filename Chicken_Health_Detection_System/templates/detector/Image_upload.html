@@ -1,0 +1,47 @@
+{% extends "detector/base.html" %}
+{% block title %}Image Detection — Poultry Watch{% endblock %}
+
+{% block content %}
+<section class="page-head">
+    <h1>Upload an image</h1>
+    <p>Choose a photo of your flock. The model marks each chicken as healthy or sick.</p>
+</section>
+
+<form method="post" enctype="multipart/form-data" class="upload-form">
+    {% csrf_token %}
+    {{ form.image }}
+    <button type="submit" class="btn btn--primary">Detect</button>
+</form>
+
+{% if result %}
+<section class="result">
+    <div class="result__images">
+        <figure>
+            <figcaption>Original</figcaption>
+            <img src="{{ result.input_url }}" alt="Uploaded image">
+        </figure>
+        <figure>
+            <figcaption>Detected</figcaption>
+            <img src="{{ result.output_url }}" alt="Annotated result">
+        </figure>
+    </div>
+
+    <div class="result__summary">
+        <div class="stat">
+            <span class="stat__value">{{ result.summary.total_detections }}</span>
+            <span class="stat__label">Chickens found</span>
+        </div>
+        <div class="stat stat--healthy">
+            <span class="stat__value">{{ result.summary.healthy_count }}</span>
+            <span class="stat__label">Healthy</span>
+        </div>
+        <div class="stat stat--sick">
+            <span class="stat__value">{{ result.summary.sick_count }}</span>
+            <span class="stat__label">Sick</span>
+        </div>
+    </div>
+
+    <a class="btn" href="{{ result.output_url }}" download>Download annotated image</a>
+</section>
+{% endif %}
+{% endblock %}

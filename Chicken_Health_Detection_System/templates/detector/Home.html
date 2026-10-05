@@ -1,0 +1,27 @@
+{% extends "detector/base.html" %}
+{% block title %}Poultry Watch — Chicken Health Detection{% endblock %}
+
+{% block content %}
+<section class="hero">
+    <h1>See sickness before it spreads through the flock.</h1>
+    <p class="hero-sub">Point a camera at your birds, drop in a CCTV clip, or upload a photo — the model marks every chicken it finds as healthy or sick.</p>
+</section>
+
+<section class="mode-grid">
+    <a class="mode-card mode-card--image" href="{% url 'upload_image' %}">
+        <span class="mode-card__label">Photo</span>
+        <h2>Upload an image</h2>
+        <p>Check a single photo of your birds and see each one marked.</p>
+    </a>
+    <a class="mode-card mode-card--video" href="{% url 'upload_video' %}">
+        <span class="mode-card__label">Recording</span>
+        <h2>Upload CCTV footage</h2>
+        <p>Process a recorded clip and get a full annotated video back.</p>
+    </a>
+    <a class="mode-card mode-card--live" href="{% url 'live_stream_page' %}">
+        <span class="mode-card__label">Live</span>
+        <h2>Connect a camera</h2>
+        <p>Stream from a webcam or an RTSP CCTV feed in real time.</p>
+    </a>
+</section>
+{% endblock %}

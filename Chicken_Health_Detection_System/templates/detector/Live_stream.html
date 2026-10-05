@@ -1,0 +1,18 @@
+{% extends "detector/base.html" %}
+{% block title %}Live Camera — Poultry Watch{% endblock %}
+
+{% block content %}
+<section class="page-head">
+    <h1>Connect a camera</h1>
+    <p>Enter <code>0</code> for your default webcam, or an RTSP URL for a CCTV camera (e.g. <code>rtsp://user:pass@192.168.1.10:554/stream</code>).</p>
+</section>
+
+<form method="get" class="source-form">
+    <input type="text" name="source" value="{{ source }}" placeholder="0 or rtsp://user:pass@ip:554/stream">
+    <button type="submit" class="btn btn--primary">Connect</button>
+</form>
+
+<section class="live-view">
+    <img src="{% url 'video_feed' %}?source={{ source }}" alt="Live detection feed">
+</section>
+{% endblock %}
